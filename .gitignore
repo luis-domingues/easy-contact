@@ -1,0 +1,16 @@
+﻿.idea/
+bin/
+obj/
+wwwroot/
+Migrations/
+
+# Sensitive configuration files
+appsettings.Development.json
+
+# Development-specific configuration files
+Properties/
+
+# Temporary files
+*.suo
+*.user
+*.vshost.exe
